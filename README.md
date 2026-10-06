@@ -290,7 +290,7 @@ The correlation matrix compares the major engineered indices:
 * PI
 * SPI
 
-![Correlation Matrix](outputs\Correlation_Matrix_of_Sleep-Productivity_Indices.png)
+![Correlation Matrix](outputs/Correlation_Matrix_of_Sleep-Productivity_Indices.png)
 
 This makes it possible to identify which dimensions tend to move together and which components have stronger relationships with overall productivity impact.
 
